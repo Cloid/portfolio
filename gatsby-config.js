@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Miguelcloid Reniva',
     description:
-      'Brittany Chiang is a software engineer who specializes in building digital experiences.',
+      'Miguelcloid Reniva is a software developer who specializes in building digital experiences.',
     siteUrl: 'https://cloid.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@cloidqt',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
