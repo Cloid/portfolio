@@ -74,11 +74,7 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background: radial-gradient(
-      circle at var(--x, 0px) var(--y,0px),
-      #112240 0%,
-      var(--navy) 10%
-    );
+    background-color: var(--navy);
     color: var(--slate);
     font-family: var(--font-sans);
     font-size: var(--fz-xl);
