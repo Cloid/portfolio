@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Miguelcloid Reniva',
     description:
-      'Miguelcloid Reniva is a software developer who specializes in building digital experiences.',
+      'Miguelcloid Reniva is a software developer who passionate about crafting immersive and intuitive digital experiences through code.',
     siteUrl: 'https://cloid.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@cloidqt',
