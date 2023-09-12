@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
-Credit to Brittany Chiang for source code. Visit her website: [brittanychiang.com](https://brittanychiang.com).  
+Credit to Brittany Chiang for source code. Visit her website:  <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>.  
 </p>
 
