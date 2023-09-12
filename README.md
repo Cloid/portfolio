@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/Cloid/portfolio/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  cloid.me - v4
+  cloid.me
 </h1>
 <p align="center">
   Portfolio website for myself.
