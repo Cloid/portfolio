@@ -2,7 +2,7 @@
 date: '1'
 title: 'Creo (WIP)'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/JosueUriarte/R-Wireframe'
 tech:
   - React
   - Express
