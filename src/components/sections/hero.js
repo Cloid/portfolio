@@ -60,12 +60,13 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Miguelcloid Reniva.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Miguelcloid Reniva</h2>;
+  const three = <h3 className="big-heading">Software Developer.</h3>;
   const four = (
     <>
       <p>
-      I'm a software developer passionate about crafting immersive and intuitive digital experiences through code.
+        I'm a software developer passionate about crafting interactive and intuitive digital
+        experiences through code.
       </p>
     </>
   );

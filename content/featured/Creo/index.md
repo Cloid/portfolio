@@ -4,8 +4,10 @@ title: 'Creo (WIP)'
 cover: './demo.png'
 github: 'https://github.com/JosueUriarte/R-Wireframe'
 tech:
-  - React
+  - MongoDB
   - Express
+  - React
+  - Node
 ---
 
-Web application that uses visual collaboration tools, including wireframing, flowcharting, and diagramming, to facilitate effective idea brainstorming, planning, and communication for individuals. Planned to support multi-user collaboration.
+Web application that uses visual collaboration tools, including wireframing, flowcharting, and diagramming, to facilitate idea brainstorming. Planned to support multi-user collaboration.
