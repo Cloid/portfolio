@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2022-01-24'
 title: 'Software Developer'
 company: 'UC Innovation'
 location: 'Irvine, CA'
