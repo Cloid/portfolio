@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2023-10-12'
 title: 'Software Developer'
 company: 'One Community Global'
 location: 'Irvine, CA'
