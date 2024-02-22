@@ -1,10 +1,10 @@
 ---
-date: '2018-12-01'
-title: 'Undergraduate Researcher'
-company: 'Cowell College'
+date: '2021-09-01'
+title: 'Program Research Assistant'
+company: 'Baskin School of Engineering'
 location: 'Santa Cruz, CA'
-range: 'Dec. 2018 - Jun. 2021'
-url: 'https://cowell.ucsc.edu/'
+range: 'Sept. 2020 - Jun. 2021'
+url: 'https://engineering.ucsc.edu/'
 ---
 
 - Coordinated public networking events for students, alumni, and professors to foster academic research collaborations and create networking opportunities

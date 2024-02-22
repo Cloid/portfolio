@@ -1,9 +1,9 @@
 ---
-date: '2017-12-21'
+date: '2018-09-21'
 title: 'Office Staff'
 company: 'Kresge College'
 location: 'Santa Cruz, CA'
-range: 'Sept 2018 - Aug 2021'
+range: 'Sept. 2018 - Aug. 2021'
 url: 'https://kresge.ucsc.edu/'
 ---
 

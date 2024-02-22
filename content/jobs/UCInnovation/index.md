@@ -3,7 +3,7 @@ date: '2022-01-24'
 title: 'Software Developer'
 company: 'UC Innovation'
 location: 'Irvine, CA'
-range: 'Jan 2022 - Apr 2023'
+range: 'Jan. 2022 - Apr. 2023'
 url: 'https://www.ucinnovation.com/s/'
 ---
 
