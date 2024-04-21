@@ -8,5 +8,5 @@ url: 'https://engineering.ucsc.edu/'
 ---
 
 - Implemented a behavior tree to follow procedural generated roads to be used with various cars types utilizing C++, Python, Unreal Engine 4, CARLA Simulator, and OpenStreetMaps
-- Leveraged OpenStreetMap’s API to conduct comprehensive testing of the car’s data model functionality in real-world road scenarios
-- Met with PhD Candidate with weekly meetings on discussing implementations for procedurally generated roads and behavior trees
+- Conducted comprehensive testing of the car’s data model functionality in real-world road scenarios utilizing OpenStreetMap’s API
+- Weekly meetings with PhD candidate discussing implementations and deadlines

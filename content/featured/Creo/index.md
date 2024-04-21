@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Creo (WIP)'
+title: 'Creo'
 cover: './demo.png'
 github: 'https://github.com/JosueUriarte/R-Wireframe'
 tech:
@@ -10,4 +10,4 @@ tech:
   - Node
 ---
 
-Web application that uses visual collaboration tools, including wireframing, flowcharting, and diagramming, to facilitate idea brainstorming. Planned to support multi-user collaboration.
+A whiteboarding web app for collaborative idea brainstorming through wireframes using MERN stack

@@ -77,8 +77,8 @@ const About = () => {
               </a>{' '}
               from <a href="https://www.ucsc.edu/">University of California Santa Cruz</a>. My main
               focus these days is to continue creating digital experiences through building
-              projects. During my free time, I've been developing on a wireframe website,{' '}
-              <a href="https://github.com/JosueUriarte/R-Wireframe">Creo</a>.
+              projects. During my free time, I've been volunteering in an organization called,{' '}
+              <a href="https://www.hackforla.org/">Hack For LA</a>.
             </p>
           </div>
         </StyledText>
