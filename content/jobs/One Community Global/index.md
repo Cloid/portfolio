@@ -2,8 +2,8 @@
 date: '2023-10-12'
 title: 'Software Developer'
 company: 'One Community Global'
-location: 'Irvine, CA'
-range: 'Oct 2023 - Present'
+location: 'San Gabriel, CA'
+range: 'Oct 2023 - Apr. 2024'
 url: 'https://www.onecommunityglobal.org/'
 ---
 
